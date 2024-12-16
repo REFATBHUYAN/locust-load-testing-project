@@ -71,11 +71,11 @@ locust-load-testing-project/
 
 ## **Screenshots**
 
-### **Locust Web UI Dashboard:**
-![Locust Web UI](https://github.com/REFATBHUYAN/locust-load-testing-project.git/images/locust_dashboard.png)
+### **Locust Web UI Charts
+![Locust Web UI](https://github.com/REFATBHUYAN/locust-load-testing-project/blob/main/images/locust_dashboard.png?raw=true)
 
 ### **Test Metrics Summary:**
-![Test Summary](https://github.com/REFATBHUYAN/locust-load-testing-project.git/images/test_summary.png)
+![Test Summary](https://github.com/REFATBHUYAN/locust-load-testing-project/blob/main/images/test_summary.png?raw=true)
 
 ---
 
