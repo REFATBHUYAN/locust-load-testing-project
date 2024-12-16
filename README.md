@@ -119,7 +119,7 @@ services:
 
 ### **Dockerfile**
 ```dockerfile
-FROM python:3.9
+FROM python:3.9-slim
 WORKDIR /locust
 COPY locustfile.py ./
 RUN pip install locust requests
